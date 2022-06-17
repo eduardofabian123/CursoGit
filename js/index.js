@@ -19,3 +19,8 @@ function getUserByName(username, password){
 	});
 
 }
+
+function displayContent(){
+	$(".contenedor").css("visibility","visible");
+
+}
